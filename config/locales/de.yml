@@ -1731,7 +1731,9 @@ de:
     does_not_match_previous_name: entspricht nicht dem vorherigen Namen
   themes:
     contrast: Mastodon (Hoher Kontrast)
-    default: Mastodon (Dunkel)
+    default: Tangerine UI    
+    tangerineui-purple: Tangerine UI (Lila)
+    mastodon-dark: Mastodon (Dunkel)
     mastodon-light: Mastodon (Hell)
   time:
     formats:

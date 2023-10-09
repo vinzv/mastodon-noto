@@ -1732,7 +1732,9 @@ en:
     does_not_match_previous_name: does not match the previous name
   themes:
     contrast: Mastodon (High contrast)
-    default: Mastodon (Dark)
+    default: Tangerine UI                         
+    tangerineui-purple: Tangerine UI (Purple)
+    mastodon-dark: Mastodon (Dark)
     mastodon-light: Mastodon (Light)
   time:
     formats:
